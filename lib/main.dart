@@ -77,9 +77,9 @@ class _MyHomePageState extends State<MyHomePage> {
       throw 'Could not launch $formUrl';
     }
   }
+
   _launchGithubURL() async {
-    const ghUrl = 'https://github.com/singlesoup/web-apps/tree/master/foogle'; 
-    //! this will change
+    const ghUrl = 'https://github.com/singlesoup/foogle';
     if (await canLaunch(ghUrl)) {
       await launch(ghUrl);
     } else {
