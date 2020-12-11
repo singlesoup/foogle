@@ -108,7 +108,9 @@ class _MyHomePageState extends State<MyHomePage> {
                   // color: Colors.grey,
                   image: DecorationImage(
                     fit: BoxFit.contain,
-                    image: AssetImage('images/foogle.png'),
+                    // image: AssetImage('images/foogle.png'),
+                    image: NetworkImage(
+                        'https://drive.google.com/uc?export=view&id=1NdYYgQhJWBtVCaLd3yc0SUJ11lPxk4ID'),
                   ),
                 ),
               ),
@@ -186,7 +188,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     height: mediaQuery.size.height * 0.3,
                     width: mediaQuery.size.width * 0.4,
                     decoration: BoxDecoration(
-                        color: Colors.grey,
+                        //color: Colors.grey,
                         borderRadius: BorderRadius.circular(8),
                         image: DecorationImage(
                           //fit: BoxFit.cover,
