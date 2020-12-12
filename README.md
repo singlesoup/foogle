@@ -1,18 +1,14 @@
 # foogle
 
-This is a little representation of Google search which is a random yes or no predictor, build with Flutter web(beta) and YesNO Api.
-![Demo](https://drive.google.com/uc?export=view&id=1OWWjI1nae8DNspH50AhwVVmjuEv0g5zO)
+This is a little representation of Google search which is a random yes or no predictor, build with [Flutter web(beta)](https://flutter.dev/web) and [YesNO Api](https://yesno.wtf/api).
+
+![](https://drive.google.com/uc?export=view&id=1OWWjI1nae8DNspH50AhwVVmjuEv0g5zO)
 
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+The following packages are needed for the development of this application.
 
-A few resources to get you started if this is your first Flutter project:
+- `http: ^0.12.2` for managing APIs
+- `url_launcher: ^5.7.10` for launching urls link like to this repo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
