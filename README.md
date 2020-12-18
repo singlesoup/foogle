@@ -1,16 +1,19 @@
 # foogle
 
-A new Flutter project.
+This is a little representation of Google search which is a random yes or no predictor, build with [Flutter web(beta)](https://flutter.dev/web) and [YesNO Api](https://yesno.wtf/api).
 
-## Getting Started
+![](https://drive.google.com/uc?export=view&id=1OWWjI1nae8DNspH50AhwVVmjuEv0g5zO)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The following packages are needed for the development of this application.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `http: ^0.12.2` for managing APIs
+- `url_launcher: ^5.7.10` for launching urls link like to this repo
+
+## Note:
+> The logos used belong to Google and Flutter, the usage is for education purposes only.
+> For their removal please contact (gmail)[himanshu.nawalkar@gmail.com]
+
+## If you found this little project of any value, please considering staring this repo. Thanks !! Cheers !!
