@@ -5,7 +5,7 @@ This is a little representation of Google search which is a random yes or no pre
 ![](demo/foogle.gif)
 
 ## Demo
-[Link](fooglesearch.netlify.app)
+[Link](https://fooglesearch.netlify.app)
 ## Dependencies
 
 The following packages are needed for the development of this application.
